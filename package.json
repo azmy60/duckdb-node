@@ -13,8 +13,7 @@
   "binary": {
     "module_name": "duckdb",
     "module_path": "./lib/binding/",
-    "host": "https://localhost:8080",
-    "hostme": "https://npm.duckdb.org/duckdb"
+    "host": "https://localhost:8080"
   },
   "scripts": {
     "install": "node-pre-gyp install --fallback-to-build",
